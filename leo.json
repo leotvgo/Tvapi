@@ -884,26 +884,6 @@
       "ext": "./lib/土豆网盘.json"
     },
     {
-      "key": "多多影音",
-      "name": "LEO｜多多",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/多多影音.json"
-    },
-    {
-      "key": "云盘搜索",
-      "name": "LEO｜搜索",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/云盘搜索.json"
-    },
-    {
       "key": "影搜",
       "name": "LEO｜影搜",
       "type": 3,
@@ -918,16 +898,6 @@
       "name": "LEO｜云搜",
       "type": 3,
       "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
-      "key": "AliPS",
-      "name": "LEO｜盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -991,7 +961,7 @@
     },
     {
       "key": "夸克土豆弹幕",
-      "name": "LEO｜土豆夸克",
+      "name": "LEO｜土豆DM",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -1007,7 +977,7 @@
     },
     {
       "key": "夸克多多弹幕",
-      "name": "LEO｜多多夸克",
+      "name": "LEO｜多多DM",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
