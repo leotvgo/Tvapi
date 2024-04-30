@@ -24,7 +24,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "./Token.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/Token.jar",
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
      },
     {
