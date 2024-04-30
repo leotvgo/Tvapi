@@ -6,16 +6,11 @@
 长期维护切勿贩卖",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "雷欧祝大家新春快乐龙年大吉",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/lib/douban.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/pg.jar"
-    },
+      "key":"豆瓣",
+      "name":"雷欧祝大家龙年大吉，龙行龘龘，前程朤朤",
+      "type":3,
+      "api":"csp_Douban",
+      "searchable":0},
     {
       "key": "csp_KungFu404",
       "name": "云盘登录配置",
@@ -24,7 +19,7 @@
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/Token.jar",
+      "jar": "./Token.jar",
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
      },
     {
