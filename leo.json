@@ -1008,7 +1008,7 @@
     },
     {
       "key": "夸克盘搜弹幕",
-      "name": "夸克｜盘搜",
+      "name": "LEO｜盘搜",
       "type": 3,
       "api": "csp_Qkpanso",
       "searchable": 1,
