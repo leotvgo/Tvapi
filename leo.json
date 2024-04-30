@@ -37,7 +37,6 @@
 	"ext":"./lib/tokenm.json",
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/leo/main/pg.jar"
     },
-    },
     {
       "key": "影探蓝光",
       "name": "LEO｜影探",
@@ -961,7 +960,7 @@
     },
     {
       "key": "云盘资源",
-      "name": LEO｜资源",
+      "name": "LEO｜资源",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
