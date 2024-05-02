@@ -10,6 +10,9 @@
       "name":"雷欧祝大家龙年大吉，龙行龘龘，前程朤朤",
       "type":3,
       "api":"csp_Douban",
+      "playerType": 1,
+      "changeable": 1,
+      "indexs": 1,
       "searchable":0},
     {
       "key": "csp_KungFu404",
